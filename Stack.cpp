@@ -110,6 +110,7 @@ int main()
             {
                 stack.peek(); // Get the value of the top element
             }
+            break;
 
 
     
