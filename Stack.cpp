@@ -111,6 +111,9 @@ int main()
                 stack.peek(); // Get the value of the top element
             }
             break;
+        case 4:
+            cout << "Exiting program." <<  endl;
+            break;
 
 
     
